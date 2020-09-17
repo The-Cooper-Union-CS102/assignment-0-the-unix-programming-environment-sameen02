@@ -7,4 +7,5 @@ echo "hello bash" > myfile
 cat myfile
 cd ..
 cp -r mydir2 mydir3
+ls .
 find . | sort -r
