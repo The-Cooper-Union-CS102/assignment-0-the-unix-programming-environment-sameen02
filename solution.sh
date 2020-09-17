@@ -1,4 +1,4 @@
-mkdir mydir
+
 cd mydir
 mkdir mydir2
 cd mydir2
