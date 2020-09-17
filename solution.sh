@@ -1,4 +1,4 @@
-
+mkdir mydir
 cd mydir
 mkdir mydir2
 cd mydir2
@@ -7,5 +7,4 @@ echo "hello bash" > myfile
 cat myfile
 cd ..
 cp -r mydir2 mydir3
-ls .
 find . | sort -r
